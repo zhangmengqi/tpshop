@@ -1,0 +1,6 @@
+[ 2016-07-16T14:49:45+08:00 ] ::1 /tpshop/index.php/Home/goods/show1
+ERR: 无法加载控制器:Goods
+
+[ 2016-07-16T14:50:43+08:00 ] ::1 /tpshop/index.php/Home/goods/show1
+ERR: 无法加载控制器:Goods
+
