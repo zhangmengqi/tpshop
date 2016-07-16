@@ -10,11 +10,11 @@ namespace Home\Controller;
 class GoodsController extends  \Think\Controller
 {
     public function index(){
-        echo "goods控制器的index方法";
+        $this->display('show1');
     }
 
     public function show1(){
-        echo "goods控制器的show1方法";
+        $this->display();
     }
 
 }
