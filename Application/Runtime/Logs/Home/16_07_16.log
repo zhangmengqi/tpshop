@@ -4,3 +4,54 @@ ERR: 无法加载控制器:Goods
 [ 2016-07-16T14:50:43+08:00 ] ::1 /tpshop/index.php/Home/goods/show1
 ERR: 无法加载控制器:Goods
 
+[ 2016-07-16T16:02:35+08:00 ] ::1 /tpshop/index.php?s=Home/goods/index
+ERR: 模板不存在:./Application/Home/View/Goods/show.html
+
+[ 2016-07-16T16:02:57+08:00 ] ::1 /tpshop/index.php?s=Home/goods/index
+ERR: 模板不存在:./Application/Home/View/Goods/show1.html
+
+[ 2016-07-16T16:02:59+08:00 ] ::1 /tpshop/index.php?s=Home/goods/index
+ERR: 模板不存在:./Application/Home/View/Goods/show1.html
+
+[ 2016-07-16T16:03:00+08:00 ] ::1 /tpshop/index.php?s=Home/goods/index
+ERR: 模板不存在:./Application/Home/View/Goods/show1.html
+
+[ 2016-07-16T16:03:24+08:00 ] ::1 /tpshop/index.php?s=Home/goods/index
+ERR: 模板不存在:./Application/Home/View/Goods/show1.html
+
+[ 2016-07-16T16:06:00+08:00 ] ::1 /tpshop/index.php?s=Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/goods\show1.html
+
+[ 2016-07-16T16:06:41+08:00 ] ::1 /tpshop/index.php?s=Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/Goods\show1.html
+
+[ 2016-07-16T16:06:42+08:00 ] ::1 /tpshop/index.php?s=Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/Goods\show1.html
+
+[ 2016-07-16T16:06:43+08:00 ] ::1 /tpshop/index.php?s=Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/Goods\show1.html
+
+[ 2016-07-16T19:01:22+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:02:19+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:02:20+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:02:22+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:02:42+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:03:05+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:03:44+08:00 ] ::1 /tpshop/index.php/Home/index/index
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2016-07-16T19:04:09+08:00 ] ::1 /tpshop/index.php/
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+

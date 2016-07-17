@@ -1,0 +1,12 @@
+[ 2016-07-16T20:33:53+08:00 ] ::1 /tpshop/index.php/admin/login/css/User_Login.css
+ERR: 非法操作:css
+
+[ 2016-07-16T21:02:28+08:00 ] ::1 /tpshop/index.php/admin/Manage/head.html
+ERR: 非法操作:head
+
+[ 2016-07-16T21:02:28+08:00 ] ::1 /tpshop/index.php/admin/Manage/left.html
+ERR: 非法操作:left
+
+[ 2016-07-16T21:02:29+08:00 ] ::1 /tpshop/index.php/admin/Manage/right.html
+ERR: 非法操作:right
+
