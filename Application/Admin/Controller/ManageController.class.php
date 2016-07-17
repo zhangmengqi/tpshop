@@ -11,7 +11,24 @@ use Think\Controller;
 
 class ManageController extends  Controller
 {
-    public function manage()
+    public function index()
+    {
+        $this->display();
+    }
+
+
+    public function left()
+    {
+        $this->display();
+    }
+
+    public function right()
+    {
+        $this->display();
+    }
+
+
+    public function head()
     {
         $this->display();
     }
